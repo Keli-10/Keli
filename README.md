@@ -1,4 +1,4 @@
-# Hi, I'm Isaac (Agbevivina) 
+# Hi, I'm Isaac  
 
 ### Engineering Physics Graduate | Aspiring AI/ML Engineer | Data & Technology Enthusiast
 
