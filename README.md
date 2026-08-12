@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Isaac (Agbevivina) 
 
-<!--
-**agbevivina/Agbevivina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Engineering Physics Graduate | Aspiring AI/ML Engineer | Data & Technology Enthusiast
 
-Here are some ideas to get you started:
+I'm an **Engineering Physics graduate from the University of Cape Coast** with a growing focus on **Artificial Intelligence, Machine Learning, Data/AI Analytics and predictive analytics**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build practical, data-driven solutions that connect **physics, engineering, programming, and machine learning** to real-world problems. My goal is to grow into an **AI/ML Engineer**, develop impactful technology products, and eventually build solutions that can be transformed into scalable businesses.
+
+### What I Build
+
+- Machine Learning & predictive analytics solutions
+- A deployed churn prediction API (FastAPI + Random Forest)
+- Data/AI analysis and visualization projects
+- GIS and spatial-data applications
+- Environmental and groundwater-quality modelling
+- Python-based data and ML applications
+- Arduino and data-acquisition projects
+
+One of my major projects is a **Groundwater Quality Classification project for Ghana's Central Region**, combining supervised machine learning with GIS spatial analysis. The project uses WQI classification, Random Forest and SVM models, SMOTE/SMOTETomek for class imbalance, and IDW interpolation in QGIS across 19 districts.
+
+##  Featured Project
+
+###  Groundwater Quality Classification — Central Region, Ghana
+
+A BSc Engineering Physics thesis applying **Machine Learning and GIS** to groundwater-quality analysis across Ghana's Central Region.
+
+**Technologies:** Python · Pandas · Scikit-learn · Imbalanced-learn  · QGIS · Jupyter
+
+**Methods:** WQI computation · Random Forest · SVM · GridSearchCV · SMOTE · SMOTETomek · IDW interpolation
+
+The project combines a supervised classification pipeline with GIS-based spatial interpolation to investigate groundwater quality and support screening and prioritisation.
+
+##  Current Focus
+
+- Machine Learning
+- Artificial Intelligence
+- Predictive Analytics
+- Data/AI Analytics
+- Python
+- Data Visualization
+- Engineering Applications of AI
+
+##  What I'm Working Toward
+
+My long-term goal is to become a strong **AI/ML Engineer** capable of taking a problem from:
+
+**Problem → Data → Analysis → Model → Deployment → Real-world Solution**
+
+I am particularly interested in applying AI to **engineering, environmental, scientific, and business problems**.
+
+##  Connect With Me
+
+-  **GitHub:** [My GitHub](https://github.com/Isaac(agbevivina))
+
+###  *Building at the intersection of Physics, Data, Engineering & AI.*
