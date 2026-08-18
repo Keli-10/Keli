@@ -49,7 +49,7 @@ My long-term goal is to become a strong **AI/ML Engineer** capable of taking a p
 I am particularly interested in applying AI to **engineering, environmental, scientific, and business problems**.
 
 ##  Connect With Me
-
--  **GitHub:** [My GitHub](https://github.com/Isaac(agbevivina))
+-  **LinkedIn:** https://www.linkedin.com/in/isaac-governor-yorhokpor-23aa942b1/
+-  **GitHub:** https://github.com/Isaac(agbevivina)
 
 ###  *Building at the intersection of Physics, Data, Engineering & AI.*
