@@ -1,8 +1,8 @@
-# Hi, I'm Isaac  
+# Hi, I'm Keli@10  
 
-### Engineering Physics Graduate | Aspiring AI/ML Engineer | Data & Technology Enthusiast
+### Aspiring AI/ML Engineer | Data & Technology Enthusiast
 
-I'm an **Engineering Physics graduate from the University of Cape Coast** with a growing focus on **Artificial Intelligence, Machine Learning, Data/AI Analytics and predictive analytics**.
+I have a growing focus on **Artificial Intelligence, Machine Learning, Data/AI Analytics and predictive analytics**.
 
 I build practical, data-driven solutions that connect **physics, engineering, programming, and machine learning** to real-world problems. My goal is to grow into an **AI/ML Engineer**, develop impactful technology products, and eventually build solutions that can be transformed into scalable businesses.
 
@@ -11,22 +11,21 @@ I build practical, data-driven solutions that connect **physics, engineering, pr
 - Machine Learning & predictive analytics solutions
 - A deployed churn prediction API (FastAPI + Random Forest)
 - Data/AI analysis and visualization projects
-- GIS and spatial-data applications
 - Environmental and groundwater-quality modelling
 - Python-based data and ML applications
 - Arduino and data-acquisition projects
 
-One of my major projects is a **Groundwater Quality Classification project for Ghana's Central Region**, combining supervised machine learning with GIS spatial analysis. The project uses WQI classification, Random Forest and SVM models, SMOTE/SMOTETomek for class imbalance, and IDW interpolation in QGIS across 19 districts.
+One of my major projects is a **Groundwater Quality Classification project for Ghana's Central Region**, combining supervised machine learning with GIS spatial analysis. The project uses WQI classification, Random Forest, SVM models and IDW interpolation in QGIS across 19 districts.
 
 ##  Featured Project
 
 ###  Groundwater Quality Classification — Central Region, Ghana
 
-A BSc Engineering Physics thesis applying **Machine Learning and GIS** to groundwater-quality analysis across Ghana's Central Region.
+Applying **Machine Learning and GIS** to groundwater-quality analysis across Ghana's Central Region.
 
-**Technologies:** Python · Pandas · Scikit-learn · Imbalanced-learn  · QGIS · Jupyter
+**Technologies:** Python · Pandas · Scikit-learn  · QGIS · 
 
-**Methods:** WQI computation · Random Forest · SVM · GridSearchCV · SMOTE · SMOTETomek · IDW interpolation
+**Methods:** WQI computation · Random Forest · SVM · GridSearchCV · IDW interpolation
 
 The project combines a supervised classification pipeline with GIS-based spatial interpolation to investigate groundwater quality and support screening and prioritisation.
 
