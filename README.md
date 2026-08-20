@@ -49,6 +49,6 @@ I am particularly interested in applying AI to **engineering, environmental, sci
 
 ##  Connect With Me
 -  **LinkedIn:** https://www.linkedin.com/in/isaac-governor-yorhokpor-23aa942b1/
--  **GitHub:** https://github.com/Isaac(agbevivina)
+-  **GitHub:** https://github.com/Keli-10/Keli
 
 ###  *Building at the intersection of Physics, Data, Engineering & AI.*
